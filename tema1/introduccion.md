@@ -175,12 +175,19 @@ Las insignias quedan bonitas, todas están relacionadas con videojuegos.
 
 Pero **además** hay recompensas cada X insignias conseguidas.
 
+
+---
+
+## Recompensas
+
 A nivel individual:
+
 - Certificado
 - Proponer nuevas insignias
 - Zumo de cebada o similar
 
 A nivel de clase:
+
 - Kahoots
 - Vetar contenido en el examen
 - Evaluación saturada
