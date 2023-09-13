@@ -33,7 +33,7 @@ Conjunto de rasgos y cualidades que configuran la manera de ser de una persona y
 Nuestra personalidad describe:
 
 - Cómo interactuamos con el entorno
-- Como vemos y procesamos la información
+- Cómo vemos y procesamos la información
 - Cómo tomamos decisiones y afrontamos las emociones
 - Cómo enfocamos el trabajo y cómo nos planificamos 
 - Cuál es la confianza que tenemos en nosotros mismos
@@ -46,8 +46,8 @@ Jugad con las personalidades
 
 - Escenarios, representar gráficamente las personalidades
 - Personajes, personalidad marcada en NPCs
-- Mecánicas, inventad mecánicas relacionadas ccon las dimensiones del test de personalidad
-- Los propios personajes de la web (https://www.16personalities.com/es)
+- Mecánicas, inventad mecánicas relacionadas con las dimensiones del test de personalidad
+- Los propios personajes de esta [web](https://www.16personalities.com/es)
 - ...
 
 Sed imaginativos, haced brainstorming y proponednos varias ideas.
