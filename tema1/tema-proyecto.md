@@ -2,39 +2,56 @@
 title: Temática del proyecto
 ---
 
-# El tema de este curso 22-23 es... \
+# El tema de este curso 23-24 es... \
 
 ---
 
 Primera pista:
-![Pista 1](goya.jpg)
+
+![Pista 1](personalidad.png){width=30%}
 
 ---
 
 Segunda pista:
-![Pista 2](neptuno.jpg)
+
+![Pista 2a](consul.png){width=25%}
+![Pista 2b](logico.png){width=25%}
+![Pista 2c](protagonista.png){width=25%}
+![Pista 2d](virtuoso.png){width=25%}
 
 ---
 
-Última pista: \
-![Pista 2](porteadores.jpg){width=60%}
+Última pista: 
+
+![Pista 3](dimensiones.png){width=60%}
 
 ---
 
-## Estatuas
+## Personalidades MBTI
 
-- Esculturas que representa una figura natural, normalmente humana.
-- Evocan dioses, personajes importantes o hitóricos, conceptos de realidad, justicia, superación...
-- Son elementos constantes de muchas culturas y sociedades.
+Conjunto de rasgos y cualidades que configuran la manera de ser de una persona y la diferencian de las demá.
+Nuestra personalidad describe:
+
+- Cómo interactuamos con el entorno
+- Como vemos y procesamos la información
+- Cómo tomamos decisiones y afrontamos las emociones
+- Cómo enfocamos el trabajo y cómo nos planificamos 
+- Cuál es la confianza que tenemos en nosotros mismos
 
 ---
 
 ## Inspiración
 
-- La estatua (visual)
-- El ente esculpido (personaje)
-- La intención del autor (simbologia)
-- El autor de la obra
+Jugad con las personalidades
+
+- Escenarios, representar gráficamente las personalidades
+- Personajes, personalidad marcada en NPCs
+- Mecánicas, inventad mecánicas relacionadas ccon las dimensiones del test de personalidad
+- Los propios personajes de la web (https://www.16personalities.com/es)
+- ...
+
+Sed imaginativos, haced brainstorming y proponednos varias ideas.
+Podemos ayudaros a concretar las ideas y definir el alcance para la asignatura.
 
 
 
@@ -42,9 +59,10 @@ Segunda pista:
 
 ---
 
-Los nazarenos, inspiración para el juego Blasphemous (*The Game Kitchen*)
+Las fases de duelo, inspiración para Gris (*Nomada Studio*)
 
-![Nazareno](nazareno.jpg){width=25%}
-![Blasphemous](blasphemous.jpeg){width=40%}
+![Gris1](gris1.jpeg){width=40%}
+![Gris2](gris2.jpg){width=45%}
 
-[Podcast RUN con Mauricio García - The Game Kitchen CEO & Producer ](https://open.spotify.com/episode/7gdJsWBXxP5T0I8O0QPFi5?si=A4OO_7y0R6u52ZdNTluPgw&utm_source=copy-link&nd=1)
+Negación, ira, negociación, depresión y aceptación.
+Negro y blanco, rojo, verde, azul, amarillo.

@@ -67,8 +67,10 @@ Despacho 409 (4ª planta) \
 Podéis escribirme para tutorías \
 <toni@ucm.es>
 
-**_Unknown_**
+**Pablo Gutierrez Sanchez**
 
+Despacho 409 (4ª planta) \
+<pabgut02@ucm.es>
 
 
 # Evaluación
@@ -164,6 +166,24 @@ Podéis obtener insignias en el CV por logros concretos relacionados con:
 ![Insignia Participación](https://drive.google.com/uc?export=view&id=1y6w5xM2aI4e-MyvzIv5ullOTm6sBiHMy){width=15%}
 ![Insignia Entregas](https://drive.google.com/uc?export=view&id=18FCh1frO32fbejEYasWeECrtPMSu1fwA){width=15%}
 ![Insignia Género Metroidvania](https://drive.google.com/uc?export=view&id=1gLq_T1YkPm7t3DbRRj5HyW6XwcINjagK){width=15%}
+
+---
+
+## Insignias
+
+Las insignias quedan bonitas, todas están relacionadas con videojuegos.
+
+Pero **además** hay recompensas cada X insignias conseguidas.
+
+A nivel individual:
+- Certificado
+- Proponer nuevas insignias
+- Zumo de cebada o similar
+
+A nivel de clase:
+- Kahoots
+- Vetar contenido en el examen
+- Evaluación saturada
 
 ---
 
