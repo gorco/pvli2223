@@ -541,6 +541,11 @@ party.forEach(function (char, index) {
 
 ### --> **Ejercicio 4**: modifica los `hp` de la lista `party` para que estén al máximo y haz que cuando reciban un golpe la barra se anime hasta el nuevo valor.
 
+Ejemplo comparativo de la barra con animación y sin animación:
+
+![Con Animación](smooth.gif)
+![Sin Animación](nosmooth.gif)
+
 # Recursos
 
 - [`requestAnimationFrame`{.js}](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
