@@ -1,4 +1,4 @@
-# Programación de Videojuegos en Lenguajes Interpretados (curso 22/23)
+# Programación de Videojuegos en Lenguajes Interpretados (curso 24/25)
 
 ## Librerias necesarias:
 
