@@ -2,7 +2,9 @@
   "dependencies": {
     "-": "^0.0.1",
     "g": "^2.0.1",
+    "graphviz": "^0.0.9",
     "nodedown": "^0.1.2",
+    "plantuml": "^0.0.2",
     "puppeteer": "^14.3.0"
   }
 }

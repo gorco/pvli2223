@@ -163,9 +163,9 @@ Podéis obtener insignias en el CV por logros concretos relacionados con:
 - Compleción de ejercicios/contenido opcional
 - Calidad del proyecto (código, estilo, temática...)
 
-![Insignia Participación](https://drive.google.com/uc?export=view&id=1y6w5xM2aI4e-MyvzIv5ullOTm6sBiHMy){width=15%}
-![Insignia Entregas](https://drive.google.com/uc?export=view&id=18FCh1frO32fbejEYasWeECrtPMSu1fwA){width=15%}
-![Insignia Género Metroidvania](https://drive.google.com/uc?export=view&id=1gLq_T1YkPm7t3DbRRj5HyW6XwcINjagK){width=15%}
+![Insignia Participación](insignia1.png){width=15%}
+![Insignia Entregas](insignia2.png){width=15%}
+![Insignia Género Metroidvania](insignia3.png){width=15%}
 
 ---
 
@@ -184,7 +184,7 @@ A nivel individual:
 
 - Certificado
 - Proponer nuevas insignias
-- Zumo de cebada o similar
+- Otros - relacionado con los Proyectos
 
 A nivel de clase:
 
