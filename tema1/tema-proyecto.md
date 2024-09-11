@@ -52,10 +52,8 @@ Podemos ayudaros a concretar las ideas y definir el alcance para la asignatura.
 
 Sistema de cartas para cumplir con el proyecto.
 
-Todos debéis robar 3 cartas, elegid al menos una cada uno condicionará vuestro proyecto.
+Todos debéis robar 3 cartas. En el proyecto debe aplicarse al menos 1 carta de cada miembro del grupo. Y en cada proyecto debe utilizarse al menos una carta de cada categoria.
 
-Elección de cara al primer hito de la asignatura.
-
-![Ejmp1](c01.png){width=20%}
-![Ejmp2](c02.png){width=20%}
-![Ejmp3](c03.png){width=20%}
+![Ejmp1](c01.png){width=25%}
+![Ejmp2](c02.png){width=25%}
+![Ejmp3](c03.png){width=25%}
