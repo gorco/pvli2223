@@ -7,6 +7,18 @@ title: Ejercicios JavaScript
 Probad estos ejemplos y tratad de responder a las preguntas y hacer las modificaciones de código que se piden. 
 Si os atascáis con lo que hace una función, buscad en Internet la función acompañado de "mdn".
 
+Para estos ejercicio vamos a usar el [modo estricto](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Strict_mode) de Javascript, para ello, al inicio del archivo escribiremos:
+```js
+'use strict'
+```
+El modo estricto tiene varios cambios en la semántica normal de JavaScript:
+
+- Elimina algunos errores silenciosos de JavaScript cambiándolos para que lancen errores.
+- Corrige errores que hacen difícil para los motores de JavaScript realizar optimizaciones: a veces, el código en modo estricto puede correr más rápido que un código idéntico pero no estricto.
+- Prohíbe cierta sintaxis que probablemente sea definida en futuras versiones de ECMAScript.
+
+
+
 # Valores booleanos en JavaScript
 
 En JavaScript cualquier valor puede considerarse verdadero o falso según el contexto. Por ejemplo, el `0`{.js} es considerado `false`{.js} y cualquier número distinto de `0`{.js} es `true`{.js}:
